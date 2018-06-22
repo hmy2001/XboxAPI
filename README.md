@@ -1,2 +1,2 @@
 # XboxAPI
-This software is made by Web scraping.
+This software was made by Web scraping.
